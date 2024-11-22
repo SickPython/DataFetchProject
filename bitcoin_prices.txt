@@ -1,0 +1,5 @@
+Bitcoin Price: 99046.00, Timestamp: 2024-11-22 07:06:26.123366600 UTC
+Bitcoin Price: 99046.00, Timestamp: 2024-11-22 07:06:36.632980800 UTC
+Bitcoin Price: 99097.00, Timestamp: 2024-11-22 07:06:47.204126400 UTC
+Bitcoin Price: 99097.00, Timestamp: 2024-11-22 07:06:57.689766100 UTC
+Bitcoin Price: 99097.00, Timestamp: 2024-11-22 07:07:08.037117600 UTC
